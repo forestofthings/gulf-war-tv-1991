@@ -1,6 +1,6 @@
 # The War, With Commercials
 
-Forty-eight frames photographed from a VHS recording of United States network
+Forty-seven frames photographed from a VHS recording of United States network
 television coverage of the Gulf War, broadcast January 1991. The recording
 captures NBC and CNN — a presidential address, Pentagon briefings, correspondent
 reports from Baghdad, animated theatre maps — along with every commercial break
@@ -13,12 +13,16 @@ man worrying about his hairline.
 
 ## Source
 
-Frames were digitised from the original VHS tape by screen capture, then resized
-for the web. The file timestamps on the source captures are from the digitisation
-session, not the broadcast; they are used only to hold the frames in sequence.
+Frames were digitised from the original VHS tape by screen capture, then cropped
+to the television picture and resized for the web. The file timestamps on the
+source captures are from the digitisation session, not the broadcast; they are
+used only to hold the frames in sequence.
 
-Two blank frames from a stalled capture were omitted. Material in the source
-folder unrelated to this tape is not published here.
+Because the originals are screen captures, most carried a strip of desktop down
+one side or a menu bar across the top. Every frame here has been trimmed to the
+4:3 broadcast image. Two blank frames from a stalled capture were omitted, as was
+a duplicate shot on which the playback controls were showing. Material in the
+source folder unrelated to this tape is not published here.
 
 ## Rights
 
