@@ -66,6 +66,13 @@
   .hero h1 em { font-style: italic; color: var(--accent); }
   .hero p { margin: 0 0 1.15rem; color: var(--ink-dim); }
   .hero p.lede { color: var(--ink); font-size: 1.1875rem; }
+  .altlink { margin: 2.5rem 0 0; }
+  .altlink a {
+    color: var(--ink-dim); text-decoration: none;
+    border-bottom: 1px solid var(--rule); padding-bottom: .35rem;
+    transition: color .2s, border-color .2s;
+  }
+  .altlink a:hover { color: var(--accent); border-color: var(--accent); }
   .scroll-cue {
     margin-top: 3.5rem; color: var(--ink-faint);
     display: flex; align-items: center; gap: .6rem;
@@ -178,6 +185,7 @@
   <p class="lede">Someone set a VCR running and let it record the Gulf War as it came into the house.</p>
   <p>Years later the tape was played back and photographed, frame by frame. What follows is that recording in the order it aired — the anchors, the rooftops, the animated maps, and every commercial that ran between them, left in.</p>
   <p>The breaks are the point. On the tape there is no seam between a relief map of the invasion and a man worrying about his hairline. There was none on the night either.</p>
+  <p class="altlink meta"><a href="frames.html">View the frames alone, without text &rarr;</a></p>
   <p class="scroll-cue meta">Scroll</p>
 </header>
 
